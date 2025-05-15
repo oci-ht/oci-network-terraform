@@ -1,4 +1,4 @@
-# +--------------+
+# +--------------+ 
 # | Data Sources |
 # +--------------+
 data "oci_core_services" "oci_network_services" {
