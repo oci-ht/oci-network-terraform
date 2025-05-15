@@ -1,4 +1,4 @@
-# OCI Network Terraform Demo 
+# OCI Network Terraform Demo
 This Terraform code deploys a networking scheme in OCI to manage Kubernetes and other required deployments. It consists of five subnets, which are divided into the following categories.
 
 - *SUBNET_PUBLIC:* This network is for public purposes, in case it is necessary to deploy a resource that can be used from any point (for example, a VPN).
